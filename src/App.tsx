@@ -454,7 +454,7 @@ export default function App() {
           <span>AHA Guidelines 2026</span>
         </div>
         <div>
-          © 2026 Emergency Medical Training Unit
+          © 2026 國泰綜合醫院教學部數位科技暨網路資源中心
         </div>
       </footer>
     </div>
